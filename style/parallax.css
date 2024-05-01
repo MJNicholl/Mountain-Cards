@@ -1,0 +1,38 @@
+.bgimg-0 {
+    background-image: url("bg/6.jpeg");
+    min-height: 400px;
+}
+
+.bgimg-1 {
+    background-image: url("bg/background.webp");
+    min-height: 100%;
+}
+
+.bgimg-2 {
+    background-image: url("bg/background2.jpeg");
+    min-height: 400px;
+}
+
+.bgimg-3 {
+    background-image: url("bg/whistler.jpeg");
+    min-height: 400px;
+}
+
+.separator {
+    background-color: grey;
+    color: rgb(243, 243, 243);
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 16px;
+    margin-left: 0px;
+    width: 100%;
+    height: 80px;
+}
+
+.parallax {
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
