@@ -1,20 +1,31 @@
-.bgimg-0 {
-    background-image: url("bg/6.jpeg");
+/**/
+.header-img {
+    background-image: url("parallax-bg/header.jpeg");
     min-height: 400px;
 }
 
-.bgimg-1 {
-    background-image: url("bg/background.webp");
-    min-height: 100%;
-}
-
-.bgimg-2 {
-    background-image: url("bg/background2.jpeg");
+.famous-img {
+    background-image: url("parallax-bg/famous.jpeg");
     min-height: 400px;
 }
 
-.bgimg-3 {
-    background-image: url("bg/whistler.jpeg");
+.vegetation-img {
+    background-image: url("parallax-bg/vegetation.jpeg");
+    min-height: 400px;
+}
+
+.desert-img {
+    background-image: url("parallax-bg/desert.jpeg");
+    min-height: 400px;
+}
+
+.ice-img {
+    background-image: url("parallax-bg/ice.jpeg");
+    min-height: 400px;
+}
+
+.locations-img {
+    background-image: url("parallax-bg/locations.jpeg");
     min-height: 400px;
 }
 
